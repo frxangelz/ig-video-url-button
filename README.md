@@ -8,6 +8,6 @@ we will add a video button to each item with the help of the chrome extension. w
 WARNING:
 You must view instagram url with mobile view mode (change it from chrome developer tools). Desktop webview will not work because instagram use blob video on it.
 
-demo : https://www.youtube.com/watch?v=66WHdO1bs4I
+demo : https://www.youtube.com/watch?v=2RxATeu-ed8
 
-My Channel : https://www.youtube.com/c/freeangelz?sub_confirmation=1
+Please Subscribe : https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
